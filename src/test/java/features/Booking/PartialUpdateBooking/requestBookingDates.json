@@ -1,0 +1,6 @@
+{
+  "bookingdates" : {
+  "checkin" : "#(checkin)",
+  "checkout" : "#(checkout)"
+}
+}

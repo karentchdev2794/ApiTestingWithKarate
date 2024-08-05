@@ -1,0 +1,6 @@
+{
+  "firstname" : "#(firstname)",
+  "lastname" : "#(lastname)",
+  "checkin" : "#(checkin)",
+  "checkout" : "#(checkout)"
+}
