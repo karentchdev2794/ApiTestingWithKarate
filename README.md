@@ -9,5 +9,5 @@ _Entre las herramientas utilizadas esta Karate._
 ### Pre-requisitos 📋
 _Java_ .
 _Karate_ ,
-_Node_ .
+_Node_ ,
 
