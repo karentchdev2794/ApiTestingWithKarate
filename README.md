@@ -1,6 +1,6 @@
 # TestingWithKarate
 
-_Se ha avanzado una autoamtización para pruebas de Api_
+_Se ha avanzado una automatización para pruebas de Api_
 
 ## Herramientas 🚀
 
